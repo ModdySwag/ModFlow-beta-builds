@@ -1,8 +1,9 @@
 # ModFlow OrderFlow Analysis Suite — beta builds
 
-Beta binaries for invited testers.
+Beta binaries for ModFlow OrderFlow Analysis Suite: the installer, the portable build and the
+SBOM for each release.
 
-The source, the docs and every receipt live in the public repository:
+The source, the docs and every receipt live in the main repository:
 [ModdySwag/ModFlow-OrderFlow-Analysis-Suite](https://github.com/ModdySwag/ModFlow-OrderFlow-Analysis-Suite).
 
 ## What is here
@@ -17,4 +18,4 @@ Each release carries three files:
 
 Release notes carry the sha256 of every file — check what you downloaded.
 
-Feedback goes to Moddy directly.
+Feedback and issues: through the main repository above.
